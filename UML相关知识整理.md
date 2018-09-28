@@ -3,6 +3,7 @@
  UML：统一建模语言
  ## UML 类图
  类图是使用面向对象的社会最流行的 UML 图。它描述了在一个系统中的对象和他们的关系，能够让我们在正确编写代码以前对系统有一个全面的认识。 一个单独的类图描  述系统的一个具体方面，收集类图表示整个系统。基本上，类图表示系统的静态视图。
+ 
  ![UML类图](https://design-patterns.readthedocs.io/zh_CN/latest/_images/uml_class_struct.jpg)
  
 - 车的类图结构为<<abstract>>，表示车是一个抽象类；
@@ -21,6 +22,18 @@
  - 组合关系(composition)：组合关系用一条带实心菱形箭头直线表示，如下图表示A组成B，或者B由A组成。整体和部分有强依赖
  - 关联关系(association)：在最终代码中，关联对象通常是以成员变量的形式实现的，关联关系是用一条直线表示的。
  - 依赖关系(dependency):在最终代码中，依赖关系体现为类构造方法及类方法的传入参数，箭头的指向为调用关系；依赖关系除了临时知道对方外，还是“使用”对方的方法和属性。
+ 
+## UML时序图
+UML时序图要素
+-角色（Actor）
+-对象（Object）
+-生命线（Lifeline）
+-控制焦点（Focus of Control）
+-消息（Message）
+-自关联消息（Self-Message）
+-Combined Fragments
+
+列子：![时序图](https://images.cnblogs.com/cnblogs_com/ywqu/Sequence%20Diagram/Dequence_Diagram_Example.jpg)
  
 
  
