@@ -1,5 +1,5 @@
 *.md  linguist-language=Java
-*.png linguist-language=html
-*.less linguist-language=html
-*.js linguist-language=html
-*.html linguist-language=html
+*.png linguist-language=Java
+*.less linguist-language=Java
+*.js linguist-language=Java
+*.html linguist-language=Java
