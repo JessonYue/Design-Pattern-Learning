@@ -6,3 +6,5 @@
 - [设计模式总览](https://github.com/JessonYue/Design-Pattern-Learning/blob/master/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E6%80%BB%E8%A7%88.md)
 
 - [工厂方法模式](https://github.com/JessonYue/Design-Pattern-Learning/blob/master/%E5%B7%A5%E5%8E%82%E6%96%B9%E6%B3%95%E6%A8%A1%E5%BC%8F.md)
+
+- [观察者模式]
